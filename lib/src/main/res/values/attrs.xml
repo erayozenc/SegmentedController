@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SegmentController">
+        <attr name="tab_strokeWidth" format="dimension"/>
+        <attr name="tab_cornerRadius" format="dimension"/>
+        <attr name="tab_selectedColor" format="color"/>
+        <attr name="tab_unselectedColor" format="color"/>
+    </declare-styleable>
+</resources>
